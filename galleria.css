@@ -1,0 +1,23 @@
+body{
+   background-color: silver;
+}
+
+p {
+  color:balck;
+  font-family:​Helvetica;
+  font-size:10px;
+}
+
+h1{
+	color:yellow;
+	font-family:arial;
+	font-size:40px;
+	
+}
+
+img{
+	border-color : black;
+	border-style: solid;
+	border-width : 1px;
+	margin-right:50px;
+}
