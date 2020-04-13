@@ -21,3 +21,10 @@ h2{
 .blu{
 	color:blue;
 }
+
+
+td{
+	border-style: solid;
+	border-width : 1px;
+	color: black;
+}
